@@ -1,0 +1,123 @@
+body {
+    background-color: rgb(32, 32, 32);
+}
+
+.fotoprincipal{
+    display: block;
+    margin: auto;
+    
+}
+
+.fotoprincipal:hover {
+
+    opacity: 0.5;
+    transition: 1s;
+
+}
+
+.sobremi {
+    text-align: center;
+    color: rgb(251, 255, 0);
+    font-family: sans-serif;
+
+}
+
+.contenido {
+
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+span {
+
+    color: rgb(251, 255, 0);
+
+}
+
+
+.fin-contenido {
+
+    color: rgb(251, 255, 0);
+    
+
+}
+
+
+.contacto {
+    display: block;
+    margin: auto;
+    background-color: rgb(251, 255, 0);
+    border-radius: 4px;
+    padding: 15px;
+    font-family: monospace;
+    
+    
+    
+    
+}
+.contacto:hover{
+    background-color: rgb(207, 209, 69);
+    transform: scale(0.9, 0.9);
+    
+    
+}
+
+.cv{
+    
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(251, 255, 0);
+    border-radius: 4px;
+    padding: 15px;
+    font-family: monospace;
+}
+
+.cv:hover {
+
+    background-color: rgb(207, 209, 69);
+    transform: scale(0.9, 0.9);
+}
+
+
+.redes{
+    
+    width: auto;
+    margin: auto;
+    padding-top: 15px;
+}
+
+.tw{
+    display: block;
+    margin: auto;
+    padding-top: 15px;
+}
+
+.gm{
+
+    display: block;
+    margin: auto;
+    padding-top: 15px;
+
+}
+
+.gh{
+    display: block;
+    margin: auto;
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
